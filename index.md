@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Filima Patrick
 
-You can use the [editor on GitHub](https://github.com/filimapatrick/my-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A web developer and technology enthusiast creating commercial and user-friendly experiences with React.js.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](filimapatrick@gmail.com) | [LinkedIn](https://www.linkedin.com/in/patrick-filima-91450817b/) | [Github](https://github.com/filimapatrick)
+✆ Phone: +2348104125890
 
-### Markdown
+___
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+👩🏼‍💻 Engineering Experience.
 
-```markdown
-Syntax highlighted code block
+___
+👩🏼‍💻 React.js Intern @ Mixed code.ng.
 
-# Header 1
-## Header 2
-### Header 3
+**October 2021 - February 2022 (5 months)**
 
-- Bulleted
-- List
+  + Develop, manage, and implement source code to create web apps  that match the objectives and specifications outlined in the design and business documentation.
+ 
+ ___
+   
+  **💻 Projects.**
+ ___
+   
+   💻 Movie Application - Web.
 
-1. Numbered
-2. List
++ Built a movie app with React.js, Redux for state management, and a redux thunk for the API request. This program gives you access to thousands of movies at your leisure.
++ Created a movie series collection that allows users to filter movies based on category and genre. It provides you the week's most popular movies and people, as well as a YouTube preview for each series.
 
-**Bold** and _Italic_ and `Code` text
+ 💻  **Ecommerce Applications** - Web.
+ 
++ Built a product app for ecommerce that uses redux hook for state management and semantic ui for styling. It retrieves a sequence of products using the product ID and displays each with its own unique details.
++ Create a cloth store app that categorizes things, uses redux for state management, firebase for authentication, and integrates Stripe for the payment interface.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+   💻  **Whatsapp Applications** - Web.
+ +   Created a Whatsapp clone that uses Firebase authentication to login users.
+ 
+ ___
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/filimapatrick/my-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**SKILLS**
 
-### Support or Contact
++ HTML,CSS,JAVASCRIPT,REACT.JS,REDUX,FIREBASE
+___
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+ 📚 <span style='color:yellow'>Education</span>.
+___
+
+📚 **Alx Africa software engineering in collaboration with Holberton school of software engineering.**
+
+2022 - 2023
+
+📚 **University of Port Harcourt - M.Sc Neuroscience.**
+
+2020-2022
+
+📚 **University of Port Harcourt - B.Sc Human Anatomy.**
+
+2014 - 2018
