@@ -10,7 +10,7 @@ ___
 👩🏼‍💻 Engineering Experience.
 
 ___
-👩🏼‍💻 React.js Intern @ glitzsoftwares.
+👩🏼‍💻 Frontend Intern @ glitzsoftwares.
 
 **October 2021 - February 2022 (5 months)**
 
