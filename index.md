@@ -10,7 +10,7 @@ ___
 👩🏼‍💻 Engineering Experience.
 
 ___
-👩🏼‍💻 React.js Intern @ Mixed code.ng.
+👩🏼‍💻 React.js Intern @ glitzsoftwares.
 
 **October 2021 - February 2022 (5 months)**
 
@@ -52,9 +52,6 @@ ___
 
 2022 - 2023
 
-📚 **University of Port Harcourt - M.Sc Neuroscience.**
-
-2020-2022
 
 📚 **University of Port Harcourt - B.Sc Human Anatomy.**
 
