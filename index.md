@@ -40,12 +40,14 @@ ___
 
 **SKILLS**
 
-+ HTML,CSS,JAVASCRIPT,REACT.JS,REDUX,FIREBASE
++ HTML, CSS, JAVASCRIPT, REACT.JS,REDUX, FIREBASE
+
 ___
 
 
 
  📚 **Education**
+
 ___
 
 📚 **Alx Africa software engineering in collaboration with Holberton school of software engineering.**
