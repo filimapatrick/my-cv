@@ -21,18 +21,18 @@ ___
   **💻 Projects.**
  ___
    
-   💻 Movie Application - Web.
+ 💻 **Movie Application**
 
 + Built a movie app with React.js, Redux for state management, and a redux thunk for the API request. This program gives you access to thousands of movies at your leisure.
 + Created a movie series collection that allows users to filter movies based on category and genre. It provides you the week's most popular movies and people, as well as a YouTube preview for each series.
 
- 💻  **Ecommerce Applications** - Web.
+ 💻 **Ecommerce Applications**
  
 + Built a product app for ecommerce that uses redux hook for state management and semantic ui for styling. It retrieves a sequence of products using the product ID and displays each with its own unique details.
 + Create a cloth store app that categorizes things, uses redux for state management, firebase for authentication, and integrates Stripe for the payment interface.
 
 
-   💻  **Whatsapp Applications** - Web.
+ 💻  **Whatsapp Applications**
  +   Created a Whatsapp clone that uses Firebase authentication to login users.
  
  ___
@@ -45,7 +45,7 @@ ___
 
 
 
- 📚 <span style='color:yellow'>Education</span>.
+ 📚 **Education**
 ___
 
 📚 **Alx Africa software engineering in collaboration with Holberton school of software engineering.**
