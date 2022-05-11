@@ -24,7 +24,7 @@ ___
    
  💻**Movie Application**
 
-+ Built a movie app with React.js, Redux for state management, and a redux thunk for the API request. This program gives you access to thousands of movies at your leisure.
++ Built a movie app with React.js, Redux for state management, and  redux toolkit for the API request. This program gives you access to thousands of movies at your leisure.
 + Created a movie series collection that allows users to filter movies based on category and genre. It provides you the week's most popular movies and people, as well as a YouTube preview for each series.
 
  💻 **Ecommerce Applications**
