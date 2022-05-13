@@ -29,7 +29,7 @@ ___
 
  💻 **Ecommerce Applications**
  
-+ Built a product app for ecommerce that uses redux hook for state management and semantic ui for styling. It retrieves a sequence of products using the product ID and displays each with its own unique details.
++ Built a product [app](https://profound-starlight-ed42a2.netlify.app) for ecommerce that uses redux hook for state management and semantic ui for styling. It retrieves a sequence of products using the product ID and displays each with its own unique details.
 + Create a cloth [store](https://627c2cb532a89a0cd6507851--lighthearted-lebkuchen-2ea44b.netlify.app/) app that categorizes things, uses redux for state management, firebase for authentication, and integrates Stripe for the payment interface.
 
 
