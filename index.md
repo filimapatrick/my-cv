@@ -2,7 +2,7 @@
 
 A web developer and technology enthusiast creating commercial and user-friendly experiences with React.js.
 
-[Email](filimapatrick@gmail.com) | [LinkedIn](https://www.linkedin.com/in/patrick-filima-91450817b/) | [Github](https://github.com/filimapatrick)
+[Email](mailto:filimapatrick@gmail.com) | [LinkedIn](https://www.linkedin.com/in/patrick-filima-91450817b/) | [Github](https://github.com/filimapatrick)
 ✆ Phone: +2348104125890
 
 ___
