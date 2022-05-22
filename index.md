@@ -21,7 +21,12 @@ ___
   **💻 Projects.**
   
  ___
-   
+    
+  💻**Restaurant Applications**
+ 
+ + With React.js and the Redux library for state management, I created a [restaurant](https://628a95c763d6b21cda541df3--courageous-cascaron-aa8ddf.netlify.app/) page. This page allows you to explore available meal by category and order available meals.
+ 
+ 
  💻**Movie Application**
 
 + Built a [movie](https://627bc24d3f081c14701a9486--regal-bonbon-8701fd.netlify.app/) app with React.js, Redux for state management, and  redux toolkit for the API request. This program gives you access to thousands of movies at your leisure.
