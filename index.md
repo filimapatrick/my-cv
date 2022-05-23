@@ -22,10 +22,6 @@ ___
   
  ___
     
-  💻**Restaurant Applications**
- 
- + With React.js and the Redux library for state management, I created a [restaurant](https://628a95c763d6b21cda541df3--courageous-cascaron-aa8ddf.netlify.app/) page. This page allows you to explore available meal by category and order available meals.
- 
  
  💻**Movie Application**
 
@@ -36,6 +32,10 @@ ___
  
 + Built a product [app](https://profound-starlight-ed42a2.netlify.app) for ecommerce that uses redux hook for state management and semantic ui for styling. It retrieves a sequence of products using the product ID and displays each with its own unique details.
 + Create a cloth store app that categorizes things, uses redux for state management, firebase for authentication, and integrates Stripe for the payment interface.
+
+💻**Restaurant Applications**
+ 
+ + With React.js and the Redux library for state management, I created a [restaurant](https://628a95c763d6b21cda541df3--courageous-cascaron-aa8ddf.netlify.app/) page. This page allows you to explore available meal by category and order available meals.
 
 
  💻  **Whatsapp Applications**
