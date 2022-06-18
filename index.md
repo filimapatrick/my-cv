@@ -15,8 +15,16 @@ ___
 **October 2021 - February 2022 (5 months)**
 
   + Develop, manage, and implement source code to create web apps  that match the objectives and specifications outlined in the design and business documentation.
- 
+  
  ___
+ 
+ 👩🏼‍💻 Frelancing Experience.
+
+**February 2022 - June 2022 (5 months)**
+
+  + I created a website for the Nigerian Youth Neuroscience Association using ReactJs.Users can dynamically login, and the site provides detailed information about the organization as well as upcoming events..
+   
+  ___
    
   **💻 Projects.**
   
